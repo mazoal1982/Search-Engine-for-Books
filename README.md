@@ -6,7 +6,8 @@
 Singup, login, search for books, save your favorites, and remove them when you're done.
 
 ## Screenshot/Video/Gif
-[![image](https://github.com/mazoal1982/Search-Engine-for-Books/assets/91248776/731a4387-0d24-4038-9326-55d0d9c13d8d)](https://static.bc-edx.com/coding/full-stack/21-MERN/assets/21-mern-homework-demo-01.gif)
+![image](https://github.com/mazoal1982/Search-Engine-for-Books/assets/91248776/ec2d39b2-4d25-46b8-adfe-8a60bd6f8519)
+
 
 ## Deployed Link
 https://search-engine-for-google-books-803a719b7a93.herokuapp.com
