@@ -28,10 +28,7 @@ School
 
   ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
   
- 
-## Contributing
- 
-None 
+
  
 ## Tests
  
