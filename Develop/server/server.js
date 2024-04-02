@@ -30,15 +30,15 @@ if (process.env.NODE_ENV === 'production') {
 const startApolloServer = async (typeDefs, resolvers) => {
   await server.start();
   server.applyMiddleware({ app });
+  console.log(startApolloServer)
 
+};
 db.once('open', () => {
   app.listen(PORT, () => {
-    console.log(startApolloServer)
     console.log(`API server running on port ${PORT}!`);
     console.log(`Use GraphQL at http://localhost:${PORT}${server.graphqlPath}`);
   });
 });
-};
 
 // Call the async function to start the server
 //startApolloServer(typeDefs, resolvers);
