@@ -43,7 +43,7 @@ if (process.env.NODE_ENV === 'production') {
     
   };
 // Call the async function to start the server
-//startApolloServer(typeDefs, resolvers);
+startApolloServer(typeDefs, resolvers);
 
 //const express = require('express');
 //const path = require('path');
